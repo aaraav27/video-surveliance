@@ -1,0 +1,31 @@
+#heading{
+   font-size: 22px;
+   color:red;
+   font-weight: 700;
+   width: 80%;
+   font-family:'Times New Roman', Times, serif;
+}
+
+body{
+    background-size: cover;
+}
+
+#start{
+    background-color: green;
+}
+
+
+canvas{
+    background-color: green;
+    box-shadow: 5px 5px 35px blue;
+
+}
+
+#footer1{
+    position:fixed;
+    background-color: gainsboro;
+    width:100%;
+    bottom: 0;
+    color: orange;
+   line-height:30px;
+}
